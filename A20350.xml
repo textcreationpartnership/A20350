@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane breif descriptioun of the qualiteis and effectis of the vvell of the vvoman hil besyde Abirdene</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1580</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20350</idno>
+            <idno type="STC">STC 6767</idno>
+            <idno type="STC">ESTC S105326</idno>
+            <idno type="EEBO-CITATION">99841055</idno>
+            <idno type="PROQUEST">99841055</idno>
+            <idno type="VID">5613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 378:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane breif descriptioun of the qualiteis and effectis of the vvell of the vvoman hil besyde Abirdene</title>
+                  <author>Skeyne, Gilbert, 1522?-1599, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Ross],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Anno. Do. 1580.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Gilbert Skeyne.</note>
+                  <note>Place of publication and printer's name from STC.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Running title reads: The vvell of the vvoman hill.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mineral waters --  Scotland --  Aberdeen. --  Therapeutic use --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5613:1"/>
+            <pb facs="tcp:5613:1"/>
+            <p>ANE <hi>Breif deſcriptioun</hi> of the qualiteis and ef<g ref="char:EOLhyphen"/>fectis of the vvell of the vvoman hill beſyde Abir<g ref="char:EOLhyphen"/>dene.</p>
+            <p>ANNO. DO. 1580.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:5613:2"/>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <p>appeiris to be ane diuine gift of God grantit and now laitlie manifeſtit to the greit ſupport and aduancement of helth in cure of ſic diſeſis as hes bene obſeruit in diueris perſounis. Quhairfoir I ſeing the ſamin to haue bene obſcure from the beginning to thir dayis, ȝit being ane ornament and ane publict vtilitie to the Realme &amp; Burgh, thocht gude to mak the qualiteis and profeit thairof acknawledgeit to ſic perſou<g ref="char:cmbAbbrStroke">̄</g>is as be vexit with ſic diſeſis as it is good for. For of treuth it is of Medicinall qualitie and, and flowis from di<g ref="char:EOLhyphen"/>uers minerallis, as hes bene obſeruit be the ope<g ref="char:EOLhyphen"/>ratioun taiſt &amp; minerall vre, quhilk being drun<g ref="char:EOLhyphen"/>kin, is laxatiue to ſindrie, and ſo muſt neidis be het of qualitie, be reſſoun on na wayis it laxis nor molefeis the exteriour partis, or the ſkyn of mannis body: thairfoir it is laxatiue of the inte<g ref="char:EOLhyphen"/>riour partis, and promouis gude paſſage of the bellie, as wrytis Celſus lib. 2. Ca. 12. To vtheris it is womatiue, quhilk alſo teſtifeis the het qua<g ref="char:EOLhyphen"/>litie thairof, farther it geuis gude appetyte to thame quha at deſtitute thairof, and gif ony ma<g ref="char:cmbAbbrStroke">̄</g> drink twentie pound wecht of this Fontaine he findis no charge nor burding of the ſtomak nor bellie be the watter. Quhilk alſo approuis the minerall qualitie thairof, be reſſoun all naturall and pure ſweit watter is flaw in paſſage, difficill of concoctioun, flatuous &amp; heuie in the ſtomak, and generis diſtillatiounis, as wrytis Aetius Te<g ref="char:EOLhyphen"/>trab. 1. Serm. 3. Ca. 165. Sa this watter being of contrarious effectis muſt neidis be of contrarious
+<pb facs="tcp:5613:2"/>qualiteis to co<g ref="char:cmbAbbrStroke">̄</g>mou<g ref="char:cmbAbbrStroke">̄</g> watteris. Ane notabill prufe of the ſamin hes bene obſeruit be ane Indweller in Abirdene, quha laitly cauſit brew Aill of this watter, of the quhilk na beiſt wald taiſt, nor eit of the draf thairof, nouther Hors, Kow, nor Ox, ſa it being laxatiue, attenuatiue, liquefactiue, di<g ref="char:EOLhyphen"/>geſtiue, and diſcuſſiue, it muſt neidis be of het qualitie, for thir ar ye properteis of het watteris, quhilkis hes bene obſeruit be the happy ſucces in cure of diuers diſeſis in this watter, quhairof the taiſt is ſu<g ref="char:cmbAbbrStroke">̄</g>quhat vnpleſand, as gif it wer brint with Irin, the vre thairof as it rynnis vpon the ſtaines and ground ar of diuers cullouris, the ane cullour ſad blew, quhilk promiſis Iryn, as the taiſt dois alſo, the vther cullour being reid declyning to zallow cullour, teſtifeis Braſſe, quhilkis twa minerallis of proper qualitie co<g ref="char:cmbAbbrStroke">̄</g>fortis the ſtomak and Melt, as ſayis Auicen lib. 2. Tract. 2. Ca. 19. Cano. Alſo wrytis Auicen lib. 1. Fen. 2. doct. 2. ca 16. Sic watter as be of the qualitie of Iryn geuis ſtrenth to the Interiour partis of ma<g ref="char:cmbAbbrStroke">̄</g>nis body, &amp; keipis the ſtomak fro<g ref="char:cmbAbbrStroke">̄</g> corruptiou<g ref="char:cmbAbbrStroke">̄</g>, and promouis the haill faculteis quhilkis gouernis ma<g ref="char:cmbAbbrStroke">̄</g>nis body. So ar the wordis of Gal. wrytand vpon Hip. in his buik of Aere watter and places Ca. 3. Sic wat<g ref="char:EOLhyphen"/>ter (ſayis he) quhilkis ar not abill to burding the ſtomak and ar of facill digeſtioun muſt neidis to be laxatiue, and procure paſſage of the womb be Medicinall het qualitie. Gif the watter of this notabill Fontaine be builȝeit it becu<g ref="char:cmbAbbrStroke">̄</g>mis of mair blak cullour, &amp; the dreggis thairof beiris witnes
+<pb facs="tcp:5613:3"/>of the minerallis befoir writtin, as alſwa being caryit cu<g ref="char:cmbAbbrStroke">̄</g>mis haiſtely to corruptioun, quhilk be<g ref="char:EOLhyphen"/>ing profitabill as it is for the ſtomak and Melt, it muſt neidis ſpring from Iryn, alſo being na wayis byndand nor of deſiccatiue qualitie, bot rather laxatiue and diureticall, thair is na ſuſpitiou<g ref="char:cmbAbbrStroke">̄</g> to be takin of Alme, ȝit in reſpect it is diſcuſſiue, laxatiue, remollitiue, and vomitiue, it appeiris be gude reſſoun to be participant of bryntſtane, as the cullour thairof alſo witneſſis. And in re<g ref="char:EOLhyphen"/>ſpect the countrie is of nature minerall, this wat<g ref="char:EOLhyphen"/>ter being drunkin cuirand ſair Eyn, Catarris, ſair mouth, prolapſiou<g ref="char:cmbAbbrStroke">̄</g> of the vult, and dolour of the Tonſallis, it muſt neidis ſpring from Braſſe, as te<g ref="char:EOLhyphen"/>ſtifeis Aetius Tetrab. 1. Serm. 3. Ca. 167. Farther I haue obſeruit in diueris perſounis quha had drunkin the ſamin, that it mitigatis the heit of the Liuer, ſtancheit drouth, perfytlie cuiris Ne<g ref="char:EOLhyphen"/>phritick dolouris baith of Neiris and Bledder, corroborattis the ſtomak, takis away obſtructiou<g ref="char:cmbAbbrStroke">̄</g> of the Melt, perfytlie cuiris diſtillatioun fro<g ref="char:cmbAbbrStroke">̄</g> the harnis, hes cuirit ſindrie Hydropicall perſounis, ſpecially that kynd callit Anaſarca and Aſchitis. It is gude alſo be experience for reſolutionn of the body, or ony pairt thairof callit Paralyſis, pro<g ref="char:EOLhyphen"/>fitabill alſo for ſterilitie contractit be ſuffocatiou<g ref="char:cmbAbbrStroke">̄</g> of the barne bed, or ony vther natural caus, writ<g ref="char:EOLhyphen"/>tin be Hip. lib. de ſterilibꝰ. It is gude alſo for pal<g ref="char:EOLhyphen"/>pita<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ioun &amp; trymbling of the body being drun<g ref="char:EOLhyphen"/>kin, in few dayis it cuiris all ſort of cauld guttis be purgatiou<g ref="char:cmbAbbrStroke">̄</g> of ſic humouris as ar the caus thair<g ref="char:EOLhyphen"/>of.
+<pb facs="tcp:5613:3"/>It bringis to gude cullour all Cathetik per<g ref="char:EOLhyphen"/>ſounis quhilkis being of euil habitude &amp; co<g ref="char:cmbAbbrStroke">̄</g>ſtitu<g ref="char:EOLhyphen"/>tioun of body. Being alſo laxatiue and prouokis womitine, ſa it oppinnis the obſtructiounis &amp; op<g ref="char:EOLhyphen"/>pillatiou<g ref="char:cmbAbbrStroke">̄</g>is of the Liuer, quhairby mony hes bene cuirit of the Guſoch, alſo it hes cuirit mony of ye feuer Terce, &amp; laſt it perfytlie cuiris (being drun<g ref="char:EOLhyphen"/>kin) the exteriour ſcabbis, wyldefyre, darteris, &amp; vther filthines of the ſkyn. Sa it is maiſt profitabil for ſic as be of het intemperance of the Liuer, &amp; conſtitutiou<g ref="char:cmbAbbrStroke">̄</g> of them quha be burdinnit be greit and heuie co<g ref="char:cmbAbbrStroke">̄</g>ſtitutioun of body, maiſt propeus to Hydropeſie, Apopleſie, or Paraliſie. Sa albeit I haue red the qualiteis of the maiſt ancie<g ref="char:cmbAbbrStroke">̄</g>t Bathis and ſpringis of Medicinall watteris: I find this ſpring of the woman hill beſyde Abirdene to be not far different from the nature of the Bath of Cornelius callit ſa in Aquiſgran ane notabil toun in Gallia Belgica, and repugnant to the nature of the Portitanis Bath, quhilkis dois rather gender Grauel &amp; ſtaine in Neiris &amp; Bledder, nor to pro<g ref="char:EOLhyphen"/>cure the help or diſſolutioun of the ſamin. Ane greit fault I find in the vſe of this watter, that Ilk perſoun drinkis thairof at thair awin pleſure, ne<g ref="char:EOLhyphen"/>ther hauing reſpect to the preſent diſeis, naturall co<g ref="char:cmbAbbrStroke">̄</g>ſtitutioun of body, nor tyme of the ȝeir, quhair by the ſaid watter be the abuſaris thairof is ra<g ref="char:EOLhyphen"/>ther vilipendit nor co<g ref="char:cmbAbbrStroke">̄</g>mendit. Quhairfoir I wald ſic as wald haue profeit of the ſamin prepairit thair bodyis conforme to thair nature, ſtrenth, aige, diſeis, &amp; reſt of circu<g ref="char:cmbAbbrStroke">̄</g>ſtances requytit thairto,
+<pb facs="tcp:5613:4"/>ſic as the time of the ȝeir, quantitie of the watter and time of the vſe heirof, for it is not aggreabill to all perſounis at all times, not to be takin at ple<g ref="char:EOLunhyphen"/>ſure of euery one in quantitie, as nane vther mi<g ref="char:EOLhyphen"/>nerall watter. Ȝit this watter is of greiteſt vertew in the Monethis of Iunij, Iulij, Auguſt Efter the xx. day of Septe<g ref="char:cmbAbbrStroke">̄</g>ber it tynes the Medicinal ſtre<g ref="char:cmbAbbrStroke">̄</g>th quhill the nixt ȝeir thairefter. Quhairfoir the co<g ref="char:cmbAbbrStroke">̄</g>modious time ſuld be obſeruit, aſweill of the day, as of the Moneth, and to be drunkir at mor<g ref="char:EOLhyphen"/>ning, faſtand thairefter thre houris, as efter ane Medicinall potioun. The negligent vſe heirof hes fruſtrat mony of thair cure, quha ſone efter the drinking of this Medicinall watter, hes ta<g ref="char:EOLhyphen"/>kin outher meit or drink, quhairby thay ſtoppit the operatioun of the watter drunkin of befoir. I will not mak reheirſall of the mony particular perſounis quha hes obtenit thair helth, being vexit with diueris diſeſis be the vſe of this wat<g ref="char:EOLhyphen"/>ter, be reſſoun it war to lang. I traiſt albeit I ſpeik na farther at this tyme, nor that quhilk hes bene obſeruit be experience, the ȝeirly vſe thairof ſall giue occaſioun to leirnit Phiſicianis to Intreit the gude ſuc<g ref="char:EOLhyphen"/>ces thairof mair largely in tymes cumming.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:5613:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
